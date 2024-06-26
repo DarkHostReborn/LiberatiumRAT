@@ -1,4 +1,4 @@
-# LiberatiumRAT PASSWORD 2024
+# LiberatiumRAT PASSWORD DarkHost
 Best RAT for both professionals and beginners, Full Nodetect build
 Лучший RAT как для профиссионалов так и для новичков, Полный Nodetect build
 
